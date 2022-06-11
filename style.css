@@ -1,0 +1,21 @@
+.bolo{
+    height: 100px;
+background-color: red;
+border-radius: 30px;
+box-shadow: 5px 5px 20px rgba(0,0,0,0.7);
+}
+
+.menu {
+list-style: none;
+displey: flex; 
+justify-content: right;
+padding: 40px;
+}
+
+nev ul li {
+    margin: 20px;
+}
+
+body{
+    background-image: url(63418b8319d36232aa0cf6916ffa1884.jpg);
+}
